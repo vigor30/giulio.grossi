@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+# Site settings
+title: Rob Hinds
+twitter_username: rob_hinds
+name: Rob Hinds
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://automateddeveloper.blogspot.com/
+ - title: GitHub
+   url: https://github.com/robhinds
+ - title: DZone
+   url: https://dzone.com/users/899489/rhinds.html
