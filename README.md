@@ -4,9 +4,9 @@ Hi there! This is Giulio Grossi, P.h.D student in Statistics, Math and Informati
 
 ``` i hate backtiles ```
 
-+ [CV](https://github.com/vigor30/github.io/giulio.grossi/cv.md)
-+ [Contacts](https://github.com/vigor30/github.io/giulio.grossi/contacts.md)
-+ [Index](https://github.com/vigor30/github.io/giulio.grossi/giulio/index.md)
++ [CV](https://vigor30.github.io/giulio.grossi/cv.md)
++ [Contacts](https:vigor30.github.io/giulio.grossi/contacts.md)
++ [Index](https:vigor30.github.io/giulio.grossi/giulio/index.md)
 
 
 
