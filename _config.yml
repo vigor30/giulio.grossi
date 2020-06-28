@@ -12,6 +12,7 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  CV: "cv.md"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
