@@ -1,0 +1,9 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Presentations
+  url: /contacts/
+
+- title: CV
+  url: /cv/
